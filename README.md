@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brans2004
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python & Swift
+- 🌱 Experience in Python, Markups, and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
